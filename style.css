@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  transition: 0.5s;
+}
+
+ 
+.throt {
+  height: 0;
+  overflow: hidden;
+}
+.active{
+  height: auto;
+}
+
